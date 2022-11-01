@@ -17,7 +17,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "",
+      "copyright": "COPYRIGHT @ 2022 github.com/Hxy1992",
       "deb": {
         "depends": []
       },
