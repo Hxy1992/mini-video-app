@@ -1,0 +1,23 @@
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8px;
+    width: 100%;
+    height: 50px;
+}
+
+.controls .video-url {
+    width: calc(100% - 50px);
+}
+
+.controls .button {
+    width: 40px;
+    cursor: pointer;
+    color: #4980ff;
+}
+
+.video-js {
+    width: 100%;
+    height: calc(100% - 50px);
+}
